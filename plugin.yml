@@ -1,0 +1,115 @@
+name: BoneMeal4Mobs
+main: com.droppages.Skepter.BoneMeal4Mobs
+version: [1.4]
+author: Skepter
+description: Bonemeal mobs to create larger ones!
+
+permissions:
+   BoneMeal4Mobs.*:
+     description: Gives access to all bonemeal.
+     children:
+       BoneMeal4Mobs.zombie: true
+       BoneMeal4Mobs.cow: true
+       BoneMeal4Mobs.sheep: true
+       BoneMeal4Mobs.chicken: true
+       BoneMeal4Mobs.pig: true
+       BoneMeal4Mobs.villager: true
+       BoneMeal4Mobs.wolf: true
+       BoneMeal4Mobs.ocelot: true
+       BoneMeal4Mobs.mooshroom: true
+       BoneMeal4Mobs.babyzombie: true
+       BoneMeal4Mobs.babyzombiepigman: true
+       BoneMeal4Mobs.slime: true
+       BoneMeal4Mobs.magmacube: true
+       BoneMeal4Mobs.antizombie: true
+       BoneMeal4Mobs.anticow: true
+       BoneMeal4Mobs.antisheep: true
+       BoneMeal4Mobs.antichicken: true
+       BoneMeal4Mobs.antipig: true
+       BoneMeal4Mobs.antivillager: true
+       BoneMeal4Mobs.antiwolf: true
+       BoneMeal4Mobs.antiocelot: true
+       BoneMeal4Mobs.antimooshroom: true
+       BoneMeal4Mobs.antibabyzombie: true
+       BoneMeal4Mobs.antibabyzombiepigman: true
+       BoneMeal4Mobs.antislime: true
+       BoneMeal4Mobs.magmacube: true
+   BoneMeal4Mobs.zombie:
+     description: Allows you to bonemeal zombies
+     default: true
+   BoneMeal4Mobs.cow:
+     description: Allows you to bonemeal cows
+     default: true
+   BoneMeal4Mobs.sheep:
+     description: Allows you to bonemeal sheep
+     default: true
+   BoneMeal4Mobs.chicken:
+     description: Allows you to bonemeal chickens
+     default: true
+   BoneMeal4Mobs.pig:
+     description: Allows you to bonemeal pigs
+     default: true
+   BoneMeal4Mobs.villager:
+     description: Allows you to bonemeal villagers
+     default: true
+   BoneMeal4Mobs.wolf:
+     description: Allows you to bonemeal wolves
+     default: true
+   BoneMeal4Mobs.ocelot:
+     description: Allows you to bonemeal ocelots
+     default: true
+   BoneMeal4Mobs.mooshroom:
+     description: Allows you to bonemeal mooshrooms
+     default: true
+   BoneMeal4Mobs.babyzombie:
+     description: Allows you to bonemeal baby zombies
+     default: true
+   BoneMeal4Mobs.babyzombiepigman:
+     description: Allows you to bonemeal baby zombie pigmen
+     default: true
+   BoneMeal4Mobs.slime:
+     description: Allows you to bonemeal slimes
+     default: true
+   BoneMeal4Mobs.magmacube:
+     description: Allows you to bonemeal magma cubes
+     default: true
+   BoneMeal4Mobs.antizombie:
+     description: Allows you to antibonemeal zombies
+     default: true
+   BoneMeal4Mobs.anticow:
+     description: Allows you to antibonemeal cows
+     default: true
+   BoneMeal4Mobs.antisheep:
+     description: Allows you to antibonemeal sheep
+     default: true
+   BoneMeal4Mobs.antichicken:
+     description: Allows you to antibonemeal chickens
+     default: true
+   BoneMeal4Mobs.antipig:
+     description: Allows you to antibonemeal pigs
+     default: true
+   BoneMeal4Mobs.antivillager:
+     description: Allows you to antibonemeal villagers
+     default: true
+   BoneMeal4Mobs.antiwolf:
+     description: Allows you to antibonemeal wolves
+     default: true
+   BoneMeal4Mobs.antiocelot:
+     description: Allows you to antibonemeal ocelots
+     default: true
+   BoneMeal4Mobs.antimooshroom:
+     description: Allows you to antibonemeal mooshrooms
+     default: true
+   BoneMeal4Mobs.antibabyzombie:
+     description: Allows you to antibonemeal baby zombies
+     default: true
+   BoneMeal4Mobs.antibabyzombiepigman:
+     description: Allows you to antibonemeal baby zombie pigmen
+     default: true
+   BoneMeal4Mobs.antislime:
+     description: Allows you to antibonemeal slimes
+     default: true
+   BoneMeal4Mobs.antimagmacube:
+     description: Allows you to antibonemeal magma cubes
+     default: true
+     
